@@ -49,6 +49,4 @@ public class Customer {
 		this.phoneNumbers = phoneNumbers;
 	}
 	
-	
-
 }
